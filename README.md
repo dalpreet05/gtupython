@@ -1,0 +1,2 @@
+# gtupython
+gtu python workshop
